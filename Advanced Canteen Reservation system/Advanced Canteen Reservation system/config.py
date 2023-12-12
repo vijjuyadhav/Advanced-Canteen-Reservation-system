@@ -1,0 +1,1 @@
+MONGO_URL="mongodb+srv://workgigup:Temp123@cluster0.tsfr7ts.mongodb.net/?retryWrites=true&w=majority"
